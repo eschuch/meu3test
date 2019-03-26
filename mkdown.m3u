@@ -5,3 +5,7 @@ http://els.net.br/BBB1
 http://els.net.br/BBB2
 #EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/01/bbb_17.jpg" group-title="Canais: Abertos",BBB Mosaico
 http://els.net.br/BBBMosaico
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND SP
+http://els.net.br/BANDSP
+#EXTINF:-1 tvg-id"REDE TV SP" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais",  REDE TV SP
+http://els.net.br/REDETVSP
