@@ -11,3 +11,15 @@ http://els.net.br/BANDSP
 http://els.net.br/REDETVSP
 #EXTINF:-1 tvg-id"Globo SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais",Globo SP SD
 http://els.net.br/GloboSPSD
+#EXTINF:-1,BR:Telecine Action HD
+http://fonte.iptvmaishd.com:25461/8032/8032/141762
+#EXTINF:-1,BR:Telecine Cult HD
+http://fonte.iptvmaishd.com:25461/8032/8032/141759
+#EXTINF:-1,BR:telecine Fun HD
+http://fonte.iptvmaishd.com:25461/8032/8032/141756
+#EXTINF:-1,BR:Telecine Pipoca HD
+http://fonte.iptvmaishd.com:25461/8032/8032/141753
+#EXTINF:-1,BR:Telecine Premium SD
+http://fonte.iptvmaishd.com:25461/8032/8032/141751
+#EXTINF:-1,BR:Telecine Touch hd
+http://fonte.iptvmaishd.com:25461/8032/8032/141747
