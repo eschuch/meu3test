@@ -9,3 +9,5 @@ http://els.net.br/BBBMosaico
 http://els.net.br/BANDSP
 #EXTINF:-1 tvg-id"REDE TV SP" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais",  REDE TV SP
 http://els.net.br/REDETVSP
+#EXTINF:-1 tvg-id"Globo SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais", Globo SP SD
+http://els.net.br/GloboSPSD
